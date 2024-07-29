@@ -43,7 +43,9 @@ A curated list of awesome Discrete Mathematics and Applications resources.
 
 ### Spectral Hypergraph Theory
 
-- []()
+- []() - 
+- [Spectral theory of Laplace operators on oriented hypergraphs]() - 
+- [Spectral theory of weighted hypergraphs via tensors]() - 
 
 
 ## Topics in Matroid Theory
@@ -62,8 +64,9 @@ A curated list of awesome Discrete Mathematics and Applications resources.
 
 ### Discrete Curvatures
 
+- [Discrete curvatures and network analysis]() - 
 - [Forman curvature for complex networks](https://arxiv.org/abs/1603.00386) - R.P. Sreejith, Karthikeyan Mohanraj, Jürgen Jost, Emil Saucan, Areejit Samal
-- []()
+
 
 ## Applications in Mathematical Biology
 
@@ -73,7 +76,7 @@ A curated list of awesome Discrete Mathematics and Applications resources.
 
 ### DNA/RNA-Related
 
-- []()
+- [Mutations of Nucleic Acids via Matroidal Structures](https://www.mdpi.com/2073-8994/15/9/1741) - Badr et al.
 
 
 ## Applications in Mathematical Neuroscience
