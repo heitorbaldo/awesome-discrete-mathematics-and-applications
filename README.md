@@ -37,15 +37,20 @@ A curated list of awesome Discrete Mathematics and Applications resources.
 
 ### Spectral Graph Theory
 
+- [Spectral Graph Theory]()
 - []()
 
 ## Topics in Hypergraph Theory
 
+### General Hypergraph Theory
+
+- []() - 
+
 ### Spectral Hypergraph Theory
 
 - []() - 
-- [Spectral theory of Laplace operators on oriented hypergraphs]() - 
-- [Spectral theory of weighted hypergraphs via tensors]() - 
+- [Spectral theory of Laplace operators on oriented hypergraphs](https://arxiv.org/abs/2004.14671) - Raffaella Mulas, Dong Zhang
+- [Spectral theory of weighted hypergraphs via tensors](https://arxiv.org/abs/2106.00277) - Francesco Galuppi, Raffaella Mulas, Lorenzo Venturello
 
 
 ## Topics in Matroid Theory
@@ -58,13 +63,14 @@ A curated list of awesome Discrete Mathematics and Applications resources.
 ### Oriented Matroids
 
 - [Lectures on Matroids and Oriented Matroids](https://www-users.cse.umn.edu/~reiner/Talks/Vienna05/Lectures.pdf) - Victor Reiner
+- []()
 
 
 ## Topics in Discrete Geometry
 
 ### Discrete Curvatures
 
-- [Discrete curvatures and network analysis]() - 
+- [Discrete curvatures and network analysis](https://match.pmf.kg.ac.rs/electronic_versions/Match80/n3/match80n3_605-622.pdf) - Saucan et al.
 - [Forman curvature for complex networks](https://arxiv.org/abs/1603.00386) - R.P. Sreejith, Karthikeyan Mohanraj, Jürgen Jost, Emil Saucan, Areejit Samal
 
 
