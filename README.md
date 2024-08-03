@@ -1,4 +1,4 @@
-# Awesome Discrete Mathematics and Applications [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Algebra, Discrete Mathematics and Applications [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Discrete Mathematics and Applications resources.
 
@@ -8,8 +8,7 @@ A curated list of awesome Discrete Mathematics and Applications resources.
 - [Topics in Hypergraph Theory](#topics-in-hypergraph-theory)
 - [Topics in Matroid Theory](#topics-in-matroid-theory)
 - [Topics in Discrete Geometry](#topics-in-discrete-geometry)
-- [Applications in Mathematical Biology](#applications-in-mathematical-biology)
-- [Applications in Mathematical Neuroscience](#applications-in-mathematical-neuroscience)
+- [Discrete and Algebraic Mathematical Biology](#applications-in-mathematical-biology)
 
 <hr>
 
